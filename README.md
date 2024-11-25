@@ -2,6 +2,8 @@
 
 Discover the best tools to help you build software faster and more efficiently. Stop wasting time and money by developing tools that already exist.
 
+Visit [Talktodev.com](https://www.stepham.com) now.
+
 ## What is Talk to Dev?
 
 Talk to Dev is a free, curated collection of the best developer tools designed to improve your productivity when building your next project.
